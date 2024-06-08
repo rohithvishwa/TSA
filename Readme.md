@@ -35,3 +35,14 @@ The dataset can be accessed on Kaggle: [NAB Dataset](https://www.kaggle.com/data
 
 - Rohith Vishwa
 - Jim Salem
+
+# The Apple Tweet Mentions
+
+According the website showing github repo https://github.com/numenta/NAB/ the anomalies represented for the apple tweets are:
+
+    "realTweets/Twitter_volume_AAPL.csv": [
+        "2015-03-03 21:07:53",
+        "2015-03-09 17:32:53",
+        "2015-03-16 02:57:53",
+        "2015-03-31 03:27:53"
+    ],
